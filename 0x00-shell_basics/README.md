@@ -1,1 +1,1 @@
-shows the path of current working directory
+‘My first commit in a long format’
