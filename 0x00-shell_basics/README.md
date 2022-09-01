@@ -1,1 +1,1 @@
-The file betty is in /tmp/my_first_directory
+Delete the file betty
