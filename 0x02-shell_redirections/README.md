@@ -11,3 +11,4 @@ Duplicate last line
 No more javascript
 Make your directories count
 What is new
+Being unique is better than being perfect
