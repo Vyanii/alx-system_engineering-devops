@@ -22,3 +22,4 @@ You would live in hiago
 esreveR
 DJ Cut Killer
 Empty casks make the most noise
+A gif is worth ten thousand words
