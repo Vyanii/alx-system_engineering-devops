@@ -1,1 +1,1 @@
-Love is anterior to life
+People in the world
