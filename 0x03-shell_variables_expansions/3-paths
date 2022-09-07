@@ -1,3 +1,2 @@
 #!/bin/bash
-ls | wc -l #Count files on current directory
-ls path/to/dir | wc -l #Count files on specific directory path
+echo $PATH | tr ':' '\n' | wc -l
