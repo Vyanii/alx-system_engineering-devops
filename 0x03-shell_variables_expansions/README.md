@@ -1,1 +1,1 @@
-The eggs
+Instant star
